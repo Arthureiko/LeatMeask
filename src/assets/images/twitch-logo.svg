@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3500002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="twitch-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="24px"
+     inkscape:zoom="8.4662347"
+     inkscape:cx="67.444386"
+     inkscape:cy="37.088506"
+     inkscape:window-width="2560"
+     inkscape:window-height="1029"
+     inkscape:window-x="2560"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 0.48720671,0.03665139 0.05666256,1.1289832 V 5.4977879 H 1.6345906 V 6.3174288 H 2.4960748 L 3.3567007,5.4977879 H 4.6480029 L 6.3700906,3.860012 V 0.03665139 Z M 1.0608105,0.58247182 H 5.796245 V 3.5863794 L 4.7915467,4.5422928 H 3.2133768 l -0.860384,0.818511 V 4.5422928 H 1.0608105 Z M 2.6393724,3.3136617 H 3.2133723 V 1.6753838 H 2.6393724 Z m 1.57828,0 H 4.7915425 V 1.6753838 H 4.2176524 Z"
+       fill="#5a3e85"
+       id="path824"
+       style="stroke-width:0.0240549;fill:#ffffff" />
+  </g>
+</svg>

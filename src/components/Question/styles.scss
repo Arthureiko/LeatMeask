@@ -1,0 +1,85 @@
+.question {
+  background: #fefefe;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+  padding: 24px;
+
+  & + .question {
+    margin-top: 8px;
+  }
+
+  &.highlighted {
+    background: #ccccff;
+    border: 1px solid #0000cc;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+    footer .user-info span {
+      color: #29292e;
+    }
+  }
+
+  &.answered {
+    background: #d6d6c2;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  p {
+    color: #29292e;
+  }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    margin-top: 24px;
+
+    .user-info {
+      display: flex;
+      align-items: center;
+
+      img {
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+      }
+
+      span {
+        margin-left: 8px;
+        color: #737380;
+        font-size: 14px;
+      }
+    }
+
+    > div {
+      display: flex;
+      gap: 16px;
+    }
+
+    button {
+      border: 0;
+      background: transparent;
+      cursor: pointer;
+      transition: filter 0.2s;
+
+      &.like-button {
+        display: flex;
+        align-items: flex-end;
+        color: #0000cc;
+        gap: 8px;
+
+        &.liked {
+          color: #0000cc;
+
+          svg path {
+            stroke: #0000cc;
+          }
+        }
+      }
+
+      &:hover {
+        filter: brightness(0.8);
+      }
+    }
+  }
+}
